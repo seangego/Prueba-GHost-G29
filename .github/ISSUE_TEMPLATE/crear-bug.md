@@ -1,5 +1,5 @@
 ---
-name: TÍTULO
+name: Crear Bug
 about: Create a report to help us improve
 title: ''
 labels: bug
